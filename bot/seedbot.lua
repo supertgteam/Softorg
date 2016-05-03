@@ -209,12 +209,10 @@ function create_config( )
   config = {
     enabled_plugins = {
     "admin",
-    "all",
     "anti_spam",
     "arabic_lock",
     "banhammer",
     "bot_on_off",
-    "broadcast",
     "download_media",
     "ingroup",
     "flood",
