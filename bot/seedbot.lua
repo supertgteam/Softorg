@@ -223,7 +223,6 @@ function create_config( )
     "lock_emogi",
     "lock_eng",
     "lock_fa",
-    "lock_fosh",
     "lock_gif",
     "lock_join",
     "lock_link",
