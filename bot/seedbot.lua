@@ -208,18 +208,16 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "addplug",
     "admin",
     "all",
     "anti_spam",
     "arabic_lock",
     "banhammer",
     "bot_on_off",
-    "botnumber",
     "broadcast",
-    "Calcultor",
     "download_media",
     "ingroup",
+    "flood",
     "inpm",
     "inrealm",
     "lock_badword",
